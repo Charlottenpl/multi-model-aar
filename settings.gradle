@@ -1,0 +1,5 @@
+
+rootProject.name = "Multi-Module"
+include ':app'
+include ':core'
+include ':login'
